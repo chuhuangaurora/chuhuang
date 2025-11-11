@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "it's all about Huang Chu"
+title: "it's all about Chu Huang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi there! My name is Huang Chu and you can call me Aurora. I’m currently pursuing my undergraduate degree in Energy and Power Engineering at Hunan University. 
+Hi there! My name is Chu Huang and you can call me Aurora. I’m currently pursuing my undergraduate degree in Energy and Power Engineering at Hunan University. 
 
    Academics
 ---
